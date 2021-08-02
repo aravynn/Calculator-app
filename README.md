@@ -1,7 +1,7 @@
 Calculator App
 -- 
 
-Created by Kevin Jones for MEP Brothers Ltd.
+Created by Kevin Jones as an independent practice project
 Using Win32 for windows-only deployment. 
 
 -- 
